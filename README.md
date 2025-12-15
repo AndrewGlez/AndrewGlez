@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m a 20-year-old student currently studying at PUCESE. I'm passionate about learning and building projects, especially in tech and coding. Here, you'll find some of the projects I've been working on as I grow my skills and knowledge. Always open to collaboration and feedback, so feel free to connect or reach out!<br>
+👋 Hi there! I’m a 20-year-old student currently studying at Pontificia Universidad Católica del Ecuador Sede Esmeraldas. I'm passionate about learning and building projects, especially in tech and coding. Here, you'll find some of the projects I've been working on as I grow my skills and knowledge. Always open to collaboration and feedback, so feel free to connect or reach out!<br>
 
 
 # 💻 Tech Stack:
