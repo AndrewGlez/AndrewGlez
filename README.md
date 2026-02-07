@@ -28,43 +28,49 @@
 
 ### 🖥️ Languages
 
-[![](https://skillicons.dev/icons?i=js,ts,cs,dart,java,python)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,cs,dart,java,python,cpp" />
+  </a>
+</p>
+
 ### ⚡ Frameworks & Libraries
 
-[![](https://skillicons.dev/icons?i=dotnet,nodejs,react,vue,spring,flutter,nextjs,electron,selenium,tailwind,)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,nodejs,react,vue,spring,flutter,nextjs,electron,selenium,tailwind" />
+  </a>
+</p>
 
 ### 🗄️ Databases
 
-[![](https://skillicons.dev/icons?i=redis,sqlite,mysql,mongo,postgres,supabase)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=redis,sqlite,mysql,mongo,postgres,supabase" />
+  </a>
+</p>
 
 ### 🛠️ Tools & Technologies
 
-[![](https://skillicons.dev/icons?i=docker,linux,neovim,figma,git,githubactions,nginx,vercel,androidstudio)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,linux,neovim,figma,git,githubactions,nginx,vercel,androidstudio" />
+  </a>
+</p>
 
 ### 📚 Learning
 
-[![](https://skillicons.dev/icons?i=go,angular)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,angular,androidstudio" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndrewGlez&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewGlez&theme=apprentice&hide_border=false" alt="GitHub Streak" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewGlez&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AndrewGlez&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=andrewglez)
 
 ---
 
@@ -78,11 +84,16 @@
 
 <div align="center">
   
-  ### 💰 Support My Work
-  
-  If you like my projects and want to support my journey, consider buying me a coffee! ☕
-  
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/andrewglez)
+  ### 📧 Contact
+
+  <p align="center">
+  <a href="mailto:andrewgonzale009@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/andrew-gonz%C3%A1lez-castillo-0580b6289/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
   
 </div>
 
@@ -90,12 +101,6 @@
 
 <div align="center">
   
-  ![Profile Views](https://visitcount.itsvg.in/api?id=AndrewGlez&icon=0&color=0)
-  
-  <br/>
-  
   **✨ Thanks for visiting my profile! Let's build something amazing together! ✨**
   
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
