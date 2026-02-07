@@ -70,7 +70,9 @@
 
 ## 📊 GitHub Statistics
 
-![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=andrewglez)
+<div align="center">
+  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=andrewglez" alt="GitHub Stats" />
+</div>
 
 ---
 
