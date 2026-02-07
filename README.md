@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,linux,neovim,figma,git,githubactions,nginx,vercel,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=docker,linux,neovim,figma,git,githubactions,nginx,vercel,arduino,androidstudio,azure,googlecloud" />
   </a>
 </p>
 
@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,angular,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=go,angular" />
   </a>
 </p>
 
